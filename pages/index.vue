@@ -1,6 +1,6 @@
 <template>
-    <div>
-
+    <div class="bg-gray-800 text-white">
+        Hello, World!
     </div>
 </template>
 
