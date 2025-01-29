@@ -1,13 +1,13 @@
 <template>
-    <div class="bg-gray-800 text-white">
-        Hello, World!
-    </div>
+  <div>
+
+  </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 
 </script>
 
-<style lang="scss" scoped>
+<style scoped>
 
 </style>
